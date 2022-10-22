@@ -18,8 +18,6 @@ This app can scrap following data
 
 ## Demo
 
-Insert gif or link to demo
-
 ![flipkartScrap](https://github.com/sumitsalve98/Python_Project_Flipcart_Review_Scraper/blob/main/extra/flipkartreview.gif)
 ## Related
 
